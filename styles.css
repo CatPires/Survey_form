@@ -1,0 +1,153 @@
+body {
+    background-color: #606C38;
+}
+
+.top_page {
+    display: center;
+    background-color: #283618;
+    color: #DDA15E;
+    padding: 32px;
+    margin: 25px;
+}
+
+h1 {text-align: center;font-family: Garamond;font-size: 40px;}
+
+p {text-align: center;font-family: Garamond;}
+
+.survey-form {
+    display: center;
+    margin: 25px;
+}
+
+.first_panel {
+    display: center;
+    width: 100%;
+    height: 100%;
+    background-color: #BC6C25;
+    color: #606C38;
+    padding: 32px 0;
+    margin: 25px 0;
+}
+
+.first_panel_label {
+    display: block;
+    margin: 15px 15px 15px 15px;
+    font-size: 20px;
+}
+ 
+
+.first_panel_input {
+    margin: 10px 0 0 0;
+    width: 100%;
+    font-size: 15px;
+}
+
+.first_panel_select {
+    margin: 10px 0 0 0;
+    width: 100%;
+    font-size: 15px;   
+}
+
+.second_panel {
+    max-width: 2000px;
+    width: 100%;
+    height: 100%;
+    background-color: #283618;
+    color: #DDA15E;
+    padding: 32px 0;
+    margin: 25px 0;
+}
+
+.second_panel_label {
+    display: block;
+    margin: 15px 15px 15px 15px;
+    font-size: 20px;
+}
+
+.second_panel_label_two {
+    display: block;
+    margin: 15px 15px 15px 15px;
+    font-size: 17px;
+}
+
+.third_panel {
+    max-width: 2000px;
+    width: 100%;
+    height: 100%;
+    background-color: #BC6C25;
+    color: #283618;
+    padding: 32px 0;
+    margin: 25px 0;
+}
+
+
+.third_panel_label {
+    display: block;
+    margin: 15px 15px 15px 15px;
+    font-size: 20px;
+}
+
+.third_panel_select {
+    margin: 10px 0 0 0;
+    width: 100%;
+    font-size: 15px;   
+}
+
+
+.fourty_panel {
+    max-width: 2000px;
+    width: 100%;
+    height: 100%;
+    background-color: #283618;
+    color: #DDA15E;
+    padding: 32px 0;
+    margin: 25px 0;
+}
+
+.fourty_panel_label {
+    display: block;
+    margin: 15px 15px 15px 15px;
+    font-size: 20px;
+}
+
+.fourty_panel_label_two {
+    display: block;
+    margin: 15px 15px 15px 15px;
+    font-size: 17px;
+}
+
+
+.fifty_panel {
+    max-width: 2000px;
+    width: 100%;
+    height: 100%;
+    background-color: #BC6C25;
+    color: #283618;
+    padding: 32px 0;
+    margin: 25px 0;
+}
+
+.fifty_panel_label {
+    display: block;
+    margin: 15px 15px 15px 15px;
+    font-size: 20px;
+}
+
+.fifty_panel_textarea {
+    margin: 10px 0 0 0;
+    width: 100%;
+    font-size: 15px;   
+}
+
+
+.submit_button {
+    max-width: 2000px;
+    width: 100%;
+    height: 100%;
+    background-color: #DDA15E;
+    color: #283618;
+    border-color: #283618;
+    font-size: 20px;
+    padding: 32px 0;
+    margin: 25px 0;
+}
