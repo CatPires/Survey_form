@@ -10,9 +10,16 @@ body {
     margin: 25px;
 }
 
-h1 {text-align: center;font-family: Garamond;font-size: 40px;}
+h1 {
+    text-align: center;
+    font-family: Garamond;
+    font-size: 40px;
+}
 
-p {text-align: center;font-family: Garamond;}
+p {
+    text-align: center;
+    font-family: Garamond;
+}
 
 .survey-form {
     display: center;
@@ -79,7 +86,6 @@ p {text-align: center;font-family: Garamond;}
     padding: 32px 0;
     margin: 25px 0;
 }
-
 
 .third_panel_label {
     display: block;
